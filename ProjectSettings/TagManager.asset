@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Main Controller
+  - Platform
+  - Mushrooms
+  - Ground Parent
+  - Horizontal Bounds
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Mushroom
+  - QBStatic
+  - QBDynamic
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundBack
+    uniqueID: 2422112923
+    locked: 0
+  - name: BackgroundFront
+    uniqueID: 2497940903
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
